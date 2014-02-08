@@ -1,4 +1,4 @@
 Octave
 ======
 
-Octave Scripts
+A simple repository of octave scripts to get started
